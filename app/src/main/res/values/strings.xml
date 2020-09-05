@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationComponentExample</string>
+    <string name="hello_blank_fragment">This is settings fragment</string>
+    <string name="fragment_about">This is about fragment</string>
+    <string name="fragment_settings">This is fragment settings</string>
+    <string name="geenrate_number">In this section you can write or generate random number</string>
+</resources>
